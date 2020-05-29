@@ -32,4 +32,4 @@ def total_marks(*args):
 
     print("cgpa =", cgpa)
 
-total_marks(45,67,97,32,45,67,96,23,56,78)   
+total_marks(45,67,97,32,45,67,96,23,56,78,79)   
